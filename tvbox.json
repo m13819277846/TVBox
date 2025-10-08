@@ -1,20 +1,23 @@
-{"urls": [
-    {"name": "📁肥猫📁", "url": "http://肥猫.com"},
-    {"name": "📁饭硬📁", "url": "http://www.饭太硬.net/tv"},
-    {"name": "📁小米📁", "url": "http://mitvbox.xyz/小米/DEMO.json"},
-    {"name": "📁王二📁", "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
-    {"name": "📁南风📁", "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
-    {"name": "📁菜丝📁", "url": "https://tv.菜妮丝.top"},
-    {"name": "📁 OK 📁", "url": "http://ok321.top/tv"},
-    {"name": "📁巧计📁", "url": "http://cdn.qiaoji8.com/tvbox.json"},
-    {"name": "📁毒盒📁", "url": "https://毒盒.com/tv/"},
-    {"name": "📁香雅📁", "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
-    {"name": "📁喵影📁", "url": "http://www.meowtv.vip:80/tvbox.json"},
-    {"name": "📁高天📁", "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"},
-    {"name": "📁蜗牛📁", "url": "https://tv.xn--11x555b.top/svip"},
-    {"name": "📁残月📁", "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"}
-    {"name": "📁收集📁", "url": "https://tvbox.zsyzlahz.pp.ua:4433/api/tvbox/config?format=json"}
-]}
+{
+    "urls": [
+        {"name": "📁肥猫📁", "url": "http://肥猫.com"},
+        {"name": "📁饭硬📁", "url": "http://www.饭太硬.net/tv"},
+        {"name": "📁小米📁", "url": "http://mitvbox.xyz/小米/DEMO.json"},
+        {"name": "📁王二📁", "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+        {"name": "📁南风📁", "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+        {"name": "📁菜丝📁", "url": "https://tv.菜妮丝.top"},
+        {"name": "📁 OK 📁", "url": "http://ok321.top/tv"},
+        {"name": "📁巧计📁", "url": "http://cdn.qiaoji8.com/tvbox.json"},
+        {"name": "📁毒盒📁", "url": "https://毒盒.com/tv/"},
+        {"name": "📁香雅📁", "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"},
+        {"name": "📁喵影📁", "url": "http://www.meowtv.vip:80/tvbox.json"},
+        {"name": "📁高天📁", "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"},
+        {"name": "📁蜗牛📁", "url": "https://tv.xn--11x555b.top/svip"},
+        {"name": "📁残月📁", "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"}
+        {"name": "📁收集📁", "url": "https://tvbox.zsyzlahz.pp.ua:4433/api/tvbox/config?format=json"}
+    ]
+}
+
 
 
 
